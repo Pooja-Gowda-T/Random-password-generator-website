@@ -5,6 +5,8 @@ by generating strond and a random password each and every time.
 
 
 *This website will generate the password which includes length,uppercase,lowercase,numbers,symbols and so on.
+
+
 *The language used is:
      1.html
      2.css
