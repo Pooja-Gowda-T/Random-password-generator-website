@@ -2,4 +2,6 @@
 
 This website helps the user to prevent their passwords from being hacked by social engineering, brute force or dictionary attack method, and keep their online accounts safe
 by generating strond and a random password each and every time.
-This website will generate the password which includes length,uppercase,lowercase,numbers,symbols and so on.
+
+
+*This website will generate the password which includes length,uppercase,lowercase,numbers,symbols and so on.
